@@ -69,11 +69,11 @@ body {
 }
 
 h4 {
-  padding: 6em 1em;
-  font-size: 25px;
+  padding: 7vw 1.5vw;
+  font-size: 35px;
   text-align: right;
   color: #fff;
-  line-height: 1.5em;
+  line-height: 1.5vw;
   font-weight: 900;
   text-transform: uppercase;
 }
